@@ -1,2 +1,2 @@
 # deep-network-development
-Neurla networks
+Neural networks
