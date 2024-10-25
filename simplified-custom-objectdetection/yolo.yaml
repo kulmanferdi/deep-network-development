@@ -1,0 +1,8 @@
+path: dataset/
+train: train/images/
+val: val/images/
+test: test/images/
+names:
+  0: epiano
+  1: jazzbass
+  2: krk
